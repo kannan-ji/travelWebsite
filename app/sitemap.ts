@@ -4,6 +4,8 @@ import { DESTINATIONS } from '@/data/destinations';
 import { TOUR_PACKAGES } from '@/data/packages';
 import { BLOG_POSTS } from '@/data/blogs';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getBaseUrl();
   const currentDate = new Date().toISOString();
