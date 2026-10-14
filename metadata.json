@@ -1,0 +1,6 @@
+{
+  "name": "Kerala Vistas - Authentic Kerala Tour Operator",
+  "description": "Production website for an authentic Kerala travel agency offering custom backwater houseboats, Munnar hill station retreats, Wayanad rainforests, and bespoke holiday packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
